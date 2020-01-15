@@ -1,4 +1,7 @@
-# create-react-app-typescript
+# Create-React-App-Ttypescript with development flow
 This template is oriented for people who want to create small to medium pages using Create React App with Typescript.
-It includes github hooks for linting and prettifying.
-SSR should be done separately.
+The project was generated with the typescript flag in CRA and configured by using prettier and linter. 
+
+References:
+- Github hooks and linter/prettier configuration: https://github.com/react-boilerplate/react-boilerplate
+- Project structure: https://github.com/facebook/create-react-app
